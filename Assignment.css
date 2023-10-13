@@ -19,7 +19,8 @@ body {
     font-size: 30px;
 }
 .header2{
-    color: #c3c3c3;
+    color: #ffffff;
+    opacity: 30%;
 }
 
 nav ul li{
@@ -38,17 +39,18 @@ nav ul li a{
 .navbar-btn{  
   background-color: #E93A7D;
   color:white;
-  font-size: 1em;
+  font-size: 18px;
   font-weight: 400;
   position: relative;
   outline: none;
-  border-radius: 50px;
+  border-radius: 20px;
   display: flex;
   justify-content: center;
   align-items: center;
   cursor: pointer;
-  height: 50px;
-  width: 150px;
+  height: 40px;
+  width: 120px;
+  line-height: 26px;
 } 
 .Text{
     width: 1200px;
