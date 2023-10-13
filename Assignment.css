@@ -2,8 +2,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: #2f1893;
-    font-family: "DM Sans", sans-serif;
-    
+    font-family: "DM sans",sans-serif;
 }
  nav{
    display: flex;
@@ -16,10 +15,10 @@ body {
 .header1{
     color: white;
     font-size: 30px;
+   
 }
 .header2{
-    color: #ffffff;
-    opacity: 30%;
+    color: #c3c3c3;
 }
 
 nav ul li{
@@ -28,6 +27,7 @@ nav ul li{
     padding: 10px 20px;
     font-size: 20px;
 }
+
 nav ul li a{
     color: white;
     text-decoration: none;
@@ -38,19 +38,19 @@ nav ul li a{
 .navbar-btn{  
   background-color: #E93A7D;
   color:white;
-  font-size: 18px;
+  font-size: 1em;
   font-weight: 400;
   position: relative;
   outline: none;
-  border-radius: 20px;
+  border-radius: 50px;
   display: flex;
   justify-content: center;
   align-items: center;
   cursor: pointer;
-  height: 40px;
-  width: 120px;
-  line-height: 26px;
+  height: 50px;
+  width: 150px;
 } 
+
 .Text{
     width: 1200px;
     height: 100px;
@@ -90,7 +90,6 @@ nav ul li a{
 .Sign-up-form{
     height: 520px;
     width: 515px;
-    color:#A1A1B0;
     position:absolute;
     left: 750px;
     padding: 25px;
@@ -104,19 +103,21 @@ nav ul li a{
     color: #1E0E62;
     margin-bottom: 30px;
     margin-top: 40px;
-    font-size: 40px;   
+    font-size: 40px;
+     
 }
 .Sign-up-form .para{
     color: #c3c3c3;
     margin-top: 10px;
     margin-right: 8px;
 }
+
 .input-box{
     border-radius: 20px;
     padding: 10px;
     margin: 10px 0;
     width: 60%;
-    border: 2px solid  #EBEAED;
+    border: 2px solid #999;
     outline: none;
     height: 20px;
 }
@@ -158,6 +159,7 @@ a{
 hr{
     margin-top: 20px;
     width: 80%;
+
 }
 .or{
     width: 67px;
