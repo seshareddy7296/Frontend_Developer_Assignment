@@ -3,8 +3,7 @@ body {
     padding: 0;
     background-color: #2f1893;
     font-family: "DM Sans", sans-serif;
-    width: 1400px;
-    height: 890px;
+    
 }
  nav{
    display: flex;
