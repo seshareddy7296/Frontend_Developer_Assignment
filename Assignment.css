@@ -2,7 +2,9 @@ body {
     margin: 0;
     padding: 0;
     background-color: #2f1893;
-    font-family: sans-serif;
+    font-family: "DM Sans", sans-serif;
+    width: 1400px;
+    height: 890px;
 }
  nav{
    display: flex;
@@ -119,6 +121,8 @@ nav ul li a{
 }
 input::placeholder{
     color: #A1A1B0;
+    font-size: 18px;
+    font-weight: 500;
 }
 #check-box{
       width: 25px;
