@@ -126,11 +126,8 @@ nav ul li a{
       height: 23px;
       margin-left: -20px;
       margin-right: 30px;
+      accent-color: #09ceb7;
 }
-#check-box:hover{
-        background-color:#1DA1F2;
-}
-
 button{
     color:white;
     width: 65%;
